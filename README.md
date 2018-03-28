@@ -82,7 +82,7 @@ For logback a suitable logger can look like this. `%mdc` prints all MDC values a
 
 ## Set up local splunk instance
 
-[Download and install splunk enterprise trial version]().
+[Download and install splunk enterprise trial version](https://www.splunk.com/en_us/download/splunk-enterprise.html).
 
 Be aware that splunk currently (Q1 2018) does not support Mac OS High Sierra. 
 As a workaround edit the file etc/splunk-launch.conf and set
